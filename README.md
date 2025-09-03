@@ -1,5 +1,7 @@
 # 💫 About Me:
+#
 Self-taught web developer with hands-on experience building personal projects using Java, Node.js, and full-stack technologies. Passionate about crafting dynamic, user-friendly applications, with skills in API integration, database management, and version control. Always eager to learn, try new tools, and turn ideas into working solutions through code and collaboration.
+
 
 
 ## 🌐 Socials:
