@@ -71,15 +71,23 @@ I love designing systems that are efficient, secure, and maintainable, and I’m
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lab-Dev-Pranav&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Lab-Dev-Pranav&show_icons=true&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=Lab-Dev-Pranav&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
+  
 
 <br/>  
 
@@ -92,8 +100,3 @@ I love designing systems that are efficient, secure, and maintainable, and I’m
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
