@@ -12,29 +12,25 @@ Always eager to learn new tools, solve problems, and turn ideas into working sol
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavpatilg2004@gmail.com)
 
 ---
+## 💻 Skills Snapshot
 
-## 💻 Tech Stack
+**Frontend**  
+HTML · CSS · JavaScript · React · Redux · Tailwind · Bootstrap · EJS · MUI · Framer Motion · Vite · Three.js · Chart.js  
 
-### 🌐 Frontend
-HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React • Redux • EJS  
-Material UI • Framer Motion • Vite • Three.js • Chart.js  
+**Backend**  
+Java · Node.js · Express.js · REST APIs · JWT · Bcrypt · Socket.io · API Integration  
 
-### ⚙️ Backend
-Java • Node.js • Express.js • REST APIs • JWT • Bcrypt  
-Socket.io • API Integration • Nodemon  
+**Databases**  
+MongoDB · Mongoose · MySQL  
 
-### 🗃️ Databases
-MongoDB • Mongoose • MySQL  
+**Tools & Platforms**  
+Git · GitHub · NPM · Yarn · Docker · Postman · Render · Netlify · GitHub Pages  
 
-### 🧰 Tools & Platforms
-Git • GitHub • NPM • Yarn • Postman • Docker  
-Render • Netlify • GitHub Pages  
+**Cloud & DevOps**  
+AWS · Google Cloud  
 
-### 🎨 Design & Collaboration
-Figma • Canva • Slack • Discord  
-
-### ☁️ Cloud & DevOps
-AWS • Google Cloud  
+**Design & Collaboration**  
+Figma · Canva · Slack · Discord  
 
 ---
 
