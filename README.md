@@ -93,10 +93,11 @@ I love designing systems that are efficient, secure, and maintainable, and I’m
 
   
 
-<br/>  
+ <br/>  
 
+<!--
 ![Profile views counter](https://komarev.com/ghpvc/?username=Lab-Dev-Pranav&&style=flat-square)  
-  
+   -->
 
 <br/>  
 
