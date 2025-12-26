@@ -1,64 +1,99 @@
-## 💫 About Me
+## Hey 👋, I'm Pranav S Patil.  
+  
 
-🚀 Self-taught **Full-Stack Web Developer** passionate about building real-world, scalable applications.  
-Experienced with **Java, Node.js, and modern full-stack technologies**, focusing on clean APIs, efficient databases, and smooth user experiences.  
-Always eager to learn new tools, solve problems, and turn ideas into working solutions through code and collaboration.
+<a href="https://linkedin.com/in/www.linkedin.com/in/pranavpatil14" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/_dev.pranav_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
----
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_dev.pranav_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-patil-97b402381/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavpatilg2004@gmail.com)
 
----
-## 💻 Skills Snapshot
+### Glad to see you here!  
+<div align="center">🚀 Self-taught full-stack developer focused on building scalable, real-world applications. I specialize in Java and Node.js, crafting robust backends that power modern, user-friendly web experiences.
 
-**Frontend**  
-HTML · CSS · JavaScript · React · Redux · Tailwind · Bootstrap · EJS · MUI · Framer Motion · Vite · Three.js · Chart.js  
+I love designing systems that are efficient, secure, and maintainable, and I’m constantly learning to push my skills further.</div>  
+  
 
-**Backend**  
-Java · Node.js · Express.js · REST APIs · JWT · Bcrypt · Socket.io · API Integration  
+<br/>  
 
-**Databases**  
-MongoDB · Mongoose · MySQL  
 
-**Tools & Platforms**  
-Git · GitHub · NPM · Yarn · Docker · Postman · Render · Netlify · GitHub Pages  
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-**Cloud & DevOps**  
-AWS · Google Cloud  
+- 🔭 I’m currently working on [video conferincing app](#)  
+  
 
-**Design & Collaboration**  
-Figma · Canva · Slack · Discord  
+- 🌱 I’m currently learning Computer Networking & Next.js  
+  
 
----
+- Need help about anything related to MERN stack and related technologies...  
+  
 
-## 🧠 Currently Exploring
-Next.js • GraphQL • OpenAI APIs  
+- ⚡ Fun fact: I keep night shift swithed on at all times   
 
----
 
-## 🚀 Projects Hosted On
-Render • Netlify • GitHub Pages • Personal Portfolio  
+</td><td valign="top" width="50%">
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
+</div>  
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Lab-Dev-Pranav&theme=shadow_green&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Lab-Dev-Pranav&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lab-Dev-Pranav&theme=shadow_green&layout=compact)
 
----
+</td></tr></table>  
 
-## ✍️ Developer Mindset
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>  
 
----
 
-## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Lab-Dev-Pranav&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## Languages and Tools  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
+</div>  
 
----
+<br/>  
 
-[![](https://visitcount.itsvg.in/api?id=Lab-Dev-Pranav&icon=5&color=1)](https://visitcount.itsvg.in)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lab-Dev-Pranav&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
