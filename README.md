@@ -73,13 +73,13 @@ I love designing systems that are efficient, secure, and maintainable, and I’m
 ## Github Stats  
 <table>
   <tr>
-    <td width="50%" align="center">
+    <!-- <td width="50%" align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Lab-Dev-Pranav&show_icons=true&hide_border=true" 
         width="100%" 
       />
-    </td>
-    <td width="50%" align="center">
+    </td> -->
+    <td width="100%" align="center">
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=Lab-Dev-Pranav&hide_border=true" 
         width="100%" 
